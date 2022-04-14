@@ -1,0 +1,9 @@
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/CMakeFiles/edit_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/CMakeFiles/rebuild_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/src/CMakeFiles/ceng391.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/src/CMakeFiles/edit_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/src/CMakeFiles/rebuild_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/app/CMakeFiles/image-test.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/app/CMakeFiles/image-box-filter.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/app/CMakeFiles/edit_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/app/CMakeFiles/rebuild_cache.dir

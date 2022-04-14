@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/src",
+  "command": "/usr/bin/c++  -I/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/src/../include -Wall -Wextra -std=c++17 -o CMakeFiles/ceng391.dir/image.cpp.o -c /home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/src/image.cpp",
+  "file": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/src/image.cpp"
+},
+{
+  "directory": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/app",
+  "command": "/usr/bin/c++  -I/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/src/../include -Wall -Wextra -std=c++17 -o CMakeFiles/image-test.dir/image_test.cpp.o -c /home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/app/image_test.cpp",
+  "file": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/app/image_test.cpp"
+},
+{
+  "directory": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/build/app",
+  "command": "/usr/bin/c++  -I/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/src/../include -Wall -Wextra -std=c++17 -o CMakeFiles/image-box-filter.dir/image_box_filter.cpp.o -c /home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/app/image_box_filter.cpp",
+  "file": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw2/hw02/270201080_HW2/libceng391/app/image_box_filter.cpp"
+}
+]

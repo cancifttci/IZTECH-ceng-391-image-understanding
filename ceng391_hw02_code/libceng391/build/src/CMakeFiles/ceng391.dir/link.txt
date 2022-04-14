@@ -1,0 +1,2 @@
+/usr/bin/ar qc libceng391.a CMakeFiles/ceng391.dir/image.cpp.o
+/usr/bin/ranlib libceng391.a
