@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ceng391/image.hpp
+string
+-
+
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/src/image.cpp
+ceng391/image.hpp
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/src/ceng391/image.hpp
+iostream
+-
+fstream
+-
+cstring
+-
+cstdlib
+-
+

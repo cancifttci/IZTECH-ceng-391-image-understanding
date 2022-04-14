@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/src",
+  "command": "/usr/bin/c++  -I/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/src/../include -g -Wall -Wextra -std=c++17 -o CMakeFiles/ceng391.dir/image.cpp.o -c /home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/src/image.cpp",
+  "file": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/src/image.cpp"
+},
+{
+  "directory": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/app",
+  "command": "/usr/bin/c++  -I/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/src/../include -g -Wall -Wextra -std=c++17 -o CMakeFiles/image-test.dir/image_test.cpp.o -c /home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/app/image_test.cpp",
+  "file": "/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/app/image_test.cpp"
+}
+]

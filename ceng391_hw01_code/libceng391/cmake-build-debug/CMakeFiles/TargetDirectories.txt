@@ -1,0 +1,8 @@
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/src/CMakeFiles/ceng391.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/app/CMakeFiles/edit_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/app/CMakeFiles/rebuild_cache.dir
+/home/berserkr/Desktop/cengFall_21_22/ceng391/homeworks/hw1/ceng391_hw01_code/libceng391/cmake-build-debug/app/CMakeFiles/image-test.dir
