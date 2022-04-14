@@ -114,7 +114,3 @@ int main(int /*argc*/, char** /*argv*/)
         return EXIT_SUCCESS;
 }
 
-/// Local Variables:
-/// mode: c++
-/// compile-command: "make -C ../build image-test"
-/// End:        
