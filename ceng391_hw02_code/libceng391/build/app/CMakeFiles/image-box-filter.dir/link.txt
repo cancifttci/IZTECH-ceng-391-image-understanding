@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/image-box-filter.dir/image_box_filter.cpp.o -o image-box-filter  ../src/libceng391.a /usr/lib/x86_64-linux-gnu/libpng.so /usr/lib/x86_64-linux-gnu/libz.so 
